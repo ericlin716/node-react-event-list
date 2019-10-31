@@ -14,7 +14,7 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "lodash": "^4.17.11",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "semantic-ui-calendar-react": "^0.15.0",
     "semantic-ui-css": "^2.4.1",
